@@ -11,3 +11,7 @@ Place it inside the picture frame.
 Receive feedback: If correct, continue placing more pieces. If incorrect, the piece returns to its original position.
 
 Technologies Used Java Swing (for GUI)
+
+![pic](https://github.com/sohail-cs/Puzzle-Game/assets/112624170/2d9cbb81-69dc-4663-a13d-d2edb05e3a92)
+
+
